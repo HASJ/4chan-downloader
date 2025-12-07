@@ -1,6 +1,6 @@
 # inb4404 - 4chan Thread Downloader
 
-`inb4404` is a fork from [](https://github.com/Exceen/4chan-downloader), a lightweight, command-line utility for watching and downloading media from 4chan-style imageboard threads. It is designed to be efficient and resilient, making it easy to archive threads automatically.
+`inb4404` is a fork from [Exceen/4chan-downloader](https://github.com/Exceen/4chan-downloader), a lightweight, command-line utility for watching and downloading media from 4chan-style imageboard threads. It is designed to be efficient and resilient, making it easy to archive threads automatically.
 The main functionality added of this fork is the dupe checker.
 
 ## Features
